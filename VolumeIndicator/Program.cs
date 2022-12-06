@@ -1,3 +1,3 @@
 ﻿using VolumeIndicator;
 
-new Indicator().Execute();
+await new Indicator().ExecuteAsync();
